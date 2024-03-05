@@ -2,7 +2,7 @@
 
 Hello,
 this is the repository where I make the STP data, bills of material and further weblinks available. 
-With this information you should be able to rebuild th robot Arm. 
+With this information you should be able to rebuild the robot Arm. 
 _________________________________________________________________
 Links:
 1. Annin Robotics (Base design information, Software and Tutorials)
